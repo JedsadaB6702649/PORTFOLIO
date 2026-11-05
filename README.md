@@ -23,7 +23,7 @@ Redesigned the interactive building directory kiosk interface to optimize indoor
 Links
 https://www.figma.com/design/HU1SFBiRYBNY2KrGPUD31T/redesign?node-id=0-1&p=f&t=2Oqz1f7l7d9LMsp8-0
 
-Digital Magazine Design (Pages 1-14-15)
+# Digital Magazine Design (Pages 1-14-15)
 A editorial and visual layout design project focusing on typography, grid systems, and print/digital output standards.
 
 Role: Graphic & Layout Designer
