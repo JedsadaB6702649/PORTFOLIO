@@ -35,7 +35,7 @@ Tools: Adobe InDesign, Photoshop, Illustrator
 - Collaborated with team members to ensure design consistency across all magazine pages and sections.
 - Prepared print-ready and digital export files, maintaining high-resolution visual standards.
 - Links
-  https://drive.google.com/drive/folders/1_jTii-_YJ1At9Hh-Ol6xRHUjYouWodNi?fbclid=IwY2xjawVZGAlleHRuA2FlbQIxMABwZG9mBWJyaWQRMVE3bTVleU5GbWFaYUU4NXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEft3oGEVZ_0MG2_uZFfFkjtH5kKmU7ys9iMsuiYNr2BttJ_1oUYMYlgkerMnk_aem_7WWvmsBcRCJX7eriDr4Z0A
+  https://drive.google.com/file/d/1TucmNuxCEn_9SK__2JXjv6jIor_4qx5M/view?usp=sharing
 <img width="2480" height="3508" alt="Thebubble123" src="https://github.com/user-attachments/assets/b2e62349-44f3-4b3c-bf55-5777a42f08b9" />
 <img width="4961" height="3508" alt="Coloumn9" src="https://github.com/user-attachments/assets/10413fc5-a6bd-4e62-a43b-26709f3c295e" />
 <img width="4961" height="3508" alt="Coloumn10" src="https://github.com/user-attachments/assets/ec3bc8b3-df73-4dfc-a81e-7b28890fca43" />
