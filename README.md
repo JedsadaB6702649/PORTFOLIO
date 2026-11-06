@@ -83,9 +83,9 @@ Tools: Figma, User Flow, Wireframing, High-Fidelity UI, Interactive Prototyping
 
 
   # เกียรติบัตร อบรมหลักสูตร BOC690323 / BOI-STEM++
-  [Portfolio-อบรมหลักสูตร BOC690323  BOI-STEM++.pdf](https://github.com/user-attachments/files/34460030/Portfolio-.BOC690323.BOI-STEM%2B%2B.pdf)
+  <img width="1754" height="1241" alt="Portfolio-อบรมหลักสูตร BOC690323  BOI-STEM++_page-0001" src="https://github.com/user-attachments/assets/e517426d-4cd4-4af1-9231-4058f823ec81" />
 
 
 
   # เกียรติบัตร Database Programming with SQL
-  [Portfolio-Database Programming with SQL.pdf](https://github.com/user-attachments/files/34460035/Portfolio-Database.Programming.with.SQL.pdf)
+  <img width="1650" height="1275" alt="Portfolio-Database Programming with SQL" src="https://github.com/user-attachments/assets/7301a051-6128-4dcb-abf4-d0a857577d25" />
