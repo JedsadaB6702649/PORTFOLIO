@@ -77,3 +77,11 @@ Tools: Figma, User Flow, Wireframing, High-Fidelity UI, Interactive Prototyping
   <img width="2000" height="1414" alt="B6702649-YOUTH LEADERSHIP PROGRAM" src="https://github.com/user-attachments/assets/18f6c4cd-3918-47e7-9249-724cde3dd87e" />
 
 
+
+  # PORTFOLIO อบรมหลักสูตร BOC690323 / BOI-STEM++
+  [Portfolio-อบรมหลักสูตร BOC690323  BOI-STEM++.pdf](https://github.com/user-attachments/files/34460030/Portfolio-.BOC690323.BOI-STEM%2B%2B.pdf)
+
+
+
+  # PORTFOLIO Database Programming with SQL
+  [Portfolio-Database Programming with SQL.pdf](https://github.com/user-attachments/files/34460035/Portfolio-Database.Programming.with.SQL.pdf)
