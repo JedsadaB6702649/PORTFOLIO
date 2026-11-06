@@ -53,8 +53,7 @@ Tools: Figma, User Research, Wireframing, Prototyping
 - Collaborated effectively with team members for idea generation and practical design implementation.
 - Links
   https://www.figma.com/design/HXUrS9973OBqCjFBvsJXy5/HGT?node-id=0-1&p=f&t=MZMIlGz5BjtDPGEw-0
- # PORTFOLIO Hackathon Competition
-<img width="2000" height="1414" alt="B6702649-HACKATHON" src="https://github.com/user-attachments/assets/c5376bf1-d607-4883-917b-25ad0971d334" />
+ 
 
  
 # Mobile App Redesign - Kitooo Store
@@ -73,15 +72,20 @@ Tools: Figma, User Flow, Wireframing, High-Fidelity UI, Interactive Prototyping
 
 
 
-  # PORTFOLIO YOUTH LEADERSHIP PROGRAM
+  # เกียรติบัตร Hackathon Competition
+  <img width="2000" height="1414" alt="B6702649-HACKATHON" src="https://github.com/user-attachments/assets/c5376bf1-d607-4883-917b-25ad0971d334" />
+
+
+
+  # เกียรติบัตร YOUTH LEADERSHIP PROGRAM
   <img width="2000" height="1414" alt="B6702649-YOUTH LEADERSHIP PROGRAM" src="https://github.com/user-attachments/assets/18f6c4cd-3918-47e7-9249-724cde3dd87e" />
 
 
 
-  # PORTFOLIO อบรมหลักสูตร BOC690323 / BOI-STEM++
+  # เกียรติบัตร อบรมหลักสูตร BOC690323 / BOI-STEM++
   [Portfolio-อบรมหลักสูตร BOC690323  BOI-STEM++.pdf](https://github.com/user-attachments/files/34460030/Portfolio-.BOC690323.BOI-STEM%2B%2B.pdf)
 
 
 
-  # PORTFOLIO Database Programming with SQL
+  # เกียรติบัตร Database Programming with SQL
   [Portfolio-Database Programming with SQL.pdf](https://github.com/user-attachments/files/34460035/Portfolio-Database.Programming.with.SQL.pdf)
